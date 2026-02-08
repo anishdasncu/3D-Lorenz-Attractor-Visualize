@@ -1,5 +1,5 @@
 # 3D-Lorenz-Attractor-Visualize
-This project uses an app takes a list of your expenses and automatically generates a visual "spending report."
+
 # AetherChaos: 3D Lorenz Attractor Visualizer 
 
 A high-performance, zero-dependency Python tool that visualizes **deterministic chaos** using the Lorenz Equations.
